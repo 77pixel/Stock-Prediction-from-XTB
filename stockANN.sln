@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stock-Prediction-from-XTB", "Stock-Prediction-from-XTB.csproj", "{7E883965-24CE-4EDB-BA9E-6DA2F1A85FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E883965-24CE-4EDB-BA9E-6DA2F1A85FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E883965-24CE-4EDB-BA9E-6DA2F1A85FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E883965-24CE-4EDB-BA9E-6DA2F1A85FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E883965-24CE-4EDB-BA9E-6DA2F1A85FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B32A377-EBC6-4100-BE4D-2D14E307AE45}
+	EndGlobalSection
+EndGlobal
